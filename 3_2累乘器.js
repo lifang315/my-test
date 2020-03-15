@@ -10,6 +10,6 @@ r1.question('请输入一个数字',function(a){
     for (var i=1;i<=a;i++){
         result*=i;
     }
-   console.log(a+'的阶乘是'+result);
+   console.log(a+'的阶乘是:'+result);
 });
 6
